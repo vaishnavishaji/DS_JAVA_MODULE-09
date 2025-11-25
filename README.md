@@ -134,8 +134,8 @@ To write a Java program that reverses an input string using a stack, without usi
 ```java
 /*
 Program to reverses an input string using a stack
-Developed by: AISHWARYA V
-RegisterNumber: 212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber: 212223220119
 
 */
 
@@ -197,8 +197,8 @@ To simulate the functioning of a ticket counter that operates on a First-In-Firs
 ```java
 /*
 Program to functioning of a ticket counter that operates on a First-In-First-Out (FIFO)
-Developed by: AISHWARYA V
-RegisterNumber: 212223220003
+Developed by:VAISHNAVI S.A
+RegisterNumber: 212223220119
 
 */
 
@@ -345,8 +345,8 @@ To design a program that checks whether a given message is a palindrome by remov
 ```java
 /*
 Program to checks whether a given message is a palindrome by removing all non-alphanumeric characters.
-Developed by: AISHWARYA V
-RegisterNumber: 212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber: 212223220119
 
 */
 
@@ -423,8 +423,8 @@ To design a program that sorts a given array of integers in ascending order with
 ```java
 /*
 Program tosorts a given array of integers in ascending order without using built-in sorting functions
-Developed by: AISHWARYA V
-RegisterNumber: 212223220003
+Developed by: VAISHNAVI S.A
+RegisterNumber: 212223220119
 
 */
 
